@@ -29,5 +29,12 @@ This is a real-time chat interface built using **React**, **TypeScript**, **Grap
 
 ---
 
+## 🧪 How to Run Locally
+
+```bash
+git clone https://github.com/Im-surendar/Chat-app
+cd Chat-app
+npm install
+npm run dev
 
 
