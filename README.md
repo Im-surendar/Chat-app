@@ -14,6 +14,9 @@ This is a real-time chat interface built using **React**, **TypeScript**, **Grap
 - 💡 Inline form validation with auto-hiding alerts
 - 📱 Fully responsive layout
 - 🌙 Smooth scroll and UX-focused design
+- 💾  Keeps draft messages in local storage 
+
+
 
 ---
 
